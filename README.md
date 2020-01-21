@@ -158,5 +158,12 @@ The course grading is on a point scale from 0-100.
 - Final exam is work 30 points.
 
 
+## Lecture
+
+- Lecture 1: Introduction
+    - [HTML](Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.html)
+    - [Jupyter Notebook](Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.ipynb)
+
+
     
   
