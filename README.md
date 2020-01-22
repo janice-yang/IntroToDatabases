@@ -163,6 +163,10 @@ The course grading is on a point scale from 0-100.
 - Lecture 1: Introduction
     - [HTML](Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.html)
     - [Jupyter Notebook](Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.ipynb)
+<br><br>
+- Lecture 2: Relational Model, SQL, Data Modeling
+    - [HTML](Lectures/Lecture_2/w4111-L2-s2019-ModelRelational-V1/w4111-L2-s2019-ModelRelational-V1.html)
+    - [Jupyter Notebook](Lectures/Lecture_2/w4111-L2-s2019-ModelRelational-V1.ipynb)
 
 
     
