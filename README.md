@@ -180,13 +180,17 @@ and the student will have completed a project by the end of the course.
 
 This section contains links to lecture material:
 
-- Lecture 1:
+- Lectures 1 and 2:
     - Part 1: Introduction
         - [HTML](Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.html)
         - [Jupyter Notebook](Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.ipynb)
     - Part 2: Relational Model, SQL, Data Modeling
         - [HTML](Lectures/Lecture_2/w4111-L2-s2020-ModelRelational-V1.html)
         - [Jupyter Notebook](Lectures/Lecture_2/w4111-L2-s2020-ModelRelational-V1.ipynb)
+
+- Lectures 3 and 4:
+    - [PDF](Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v1.pdf)
+    - [PowerPoint](Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v1.pptx)
 
 
     
