@@ -188,9 +188,14 @@ This section contains links to lecture material:
         - [HTML](Lectures/Lecture_2/w4111-L2-s2020-ModelRelational-V1.html)
         - [Jupyter Notebook](Lectures/Lecture_2/w4111-L2-s2020-ModelRelational-V1.ipynb)
 
-- Lectures 3 and 4:
-    - [PDF](Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v1.pdf)
-    - [PowerPoint](Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v1.pptx)
+- Lectures 3:
+    - [PDF](Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v2.pdf)
+    - [PowerPoint](Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v2.pptx)
+    
+    
+- Lecture 4:
+    - [HTML](Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.html)
+    - [Jupyter Notebook](Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.ipynb)
 
 
     
