@@ -196,6 +196,17 @@ This section contains links to lecture material:
 - Lecture 4:
     - [HTML](Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.html)
     - [Jupyter Notebook](Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.ipynb)
+    
+- Lecture 5:
+    - [PPT](Lectures/Lecture_5/Lecture_5_ER_SQL_Relational_GoT.pptx)
+    - [PDF](Lectures/Lecture_5/Lecture_5_ER_SQL_Relational_GoT.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_5/w4111-L5-s2020_REST_ER_SQL_Relational_III-V1.ipynb)
+    
+- Lecture 6:
+    - [PPT](Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pptx)
+    - [PDF](Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_6/w4111-L6-s2020_Algebra_ER_Advanced_SQL_Advanced.ipynb)
+
 
 
     
