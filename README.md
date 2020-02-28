@@ -206,6 +206,11 @@ This section contains links to lecture material:
     - [PPT](Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pptx)
     - [PDF](Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pdf)
     - [Jupyter Notebook](Lectures/Lecture_6/w4111-L6-s2020_Algebra_ER_Advanced_SQL_Advanced.ipynb)
+    
+- Lecture 7:
+    - [PPT](Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pptx)
+    - [PDF](Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_7/w4111-L7-Relational_ER_SQL_Final.ipynb)
 
 
 
