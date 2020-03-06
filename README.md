@@ -211,6 +211,10 @@ This section contains links to lecture material:
     - [PPT](Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pptx)
     - [PDF](Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pdf)
     - [Jupyter Notebook](Lectures/Lecture_7/w4111-L7-Relational_ER_SQL_Final.ipynb)
+    
+- Lecture 8:
+    - [PDF](Lectures/Lecture_8/Lecture_8.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
 
 
 
