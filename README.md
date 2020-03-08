@@ -196,6 +196,26 @@ This section contains links to lecture material:
 - Lecture 4:
     - [HTML](Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.html)
     - [Jupyter Notebook](Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.ipynb)
+    
+- Lecture 5:
+    - [PPT](Lectures/Lecture_5/Lecture_5_ER_SQL_Relational_GoT.pptx)
+    - [PDF](Lectures/Lecture_5/Lecture_5_ER_SQL_Relational_GoT.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_5/w4111-L5-s2020_REST_ER_SQL_Relational_III-V1.ipynb)
+    
+- Lecture 6:
+    - [PPT](Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pptx)
+    - [PDF](Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_6/w4111-L6-s2020_Algebra_ER_Advanced_SQL_Advanced.ipynb)
+    
+- Lecture 7:
+    - [PPT](Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pptx)
+    - [PDF](Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_7/w4111-L7-Relational_ER_SQL_Final.ipynb)
+    
+- Lecture 8:
+    - [PDF](Lectures/Lecture_8/Lecture_8.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
+
 
 
     
