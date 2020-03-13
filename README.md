@@ -215,6 +215,11 @@ This section contains links to lecture material:
 - Lecture 8:
     - [PDF](Lectures/Lecture_8/Lecture_8.pdf)
     - [Jupyter Notebook](Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
+    
+- Lecture 9:
+    - [PPT](Lectures/Lecture_9/Module_II__DIsks_Indexes_v2.pptx)
+    - [PDF](Lectures/Lecture_9/Module_II__DIsks_Indexes_v2.pdf)
+    - [Jupyter Notebook](Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
 
 
 
