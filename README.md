@@ -220,7 +220,10 @@ This section contains links to lecture material:
     - [PPT](Lectures/Lecture_9/Module_II__DIsks_Indexes_v2.pptx)
     - [PDF](Lectures/Lecture_9/Module_II__DIsks_Indexes_v2.pdf)
     - [Jupyter Notebook](Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
-
+    
+- Lecture 10:
+    - [PPT](Lectures/Lecture_10/Module_II__Indexes_query_processing_v2.pptx)
+    - [PDF](Lectures/Lecture_10/Module_II__Indexes_query_processing_v2.pdf)
 
 
     
