@@ -224,6 +224,16 @@ This section contains links to lecture material:
 - Lecture 10:
     - [PPT](Lectures/Lecture_10/Module_II__Indexes_query_processing_v2.pptx)
     - [PDF](Lectures/Lecture_10/Module_II__Indexes_query_processing_v2.pdf)
+    
+    
+- Lecture 11:
+    - Query Processing and Optimization:
+        - [Query Processing and Optimization](Lectures/Lecture_11/Module_II__query_processing_optimization.pptx)
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 16](Lectures/Lecture_11/ch16-CHQDFERGUSO.pptx)
+    - Transactions and Recover:
+        - [Transactions and Recovery](Lectures/Lecture_11/Module_II_transactions_recovery_v2.pptx)
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 17]()
+    
 
 
     
