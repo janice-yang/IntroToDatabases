@@ -232,8 +232,19 @@ This section contains links to lecture material:
         - Reference material [Database System Concepts, Seventh Edition - Chapter 16](Lectures/Lecture_11/ch16-CHQDFERGUSO.pptx)
     - Transactions and Recover:
         - [Transactions and Recovery](Lectures/Lecture_11/Module_II_transactions_recovery_v2.pptx)
-        - Reference material [Database System Concepts, Seventh Edition - Chapter 17]()
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 17](Lectures/Lecture_11/ch17.pptx)
     
+- Lecture 12:
+    - Covering some additional topics in transactions/concurrency control from "Database System Concepts, Seventh Edition."<br>
+    __Note:__ Slides with green check marks are the ones we will cover.
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 17](Lectures/Lecture_12/ch17.pptx)
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 18](Lectures/Lecture_12/ch18.pptx)
+    - NoSQL Databases: Concepts, CAP Theorem, Graph Databases, Redis, DynamoDB
+        - [PPT](Lectures/Lecture_12/s2020_no_sql.pptx)
+        
+    
+    
+
 
 
     
