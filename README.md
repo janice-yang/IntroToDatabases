@@ -242,6 +242,10 @@ This section contains links to lecture material:
     - NoSQL Databases: Concepts, CAP Theorem, Graph Databases, Redis, DynamoDB
         - [PPT](Lectures/Lecture_12/s2020_no_sql.pptx)
         
+        
+- Lecture 13: Quick overview of normalization and Star Schema/decision support.
+    - [PPT](Lectures/Lecture_13/normalization_decision_support.ppt)
+        
     
     
 
